@@ -6,7 +6,8 @@ problems with optimized solutions and detailed explanations.
 ## Owner
 
 Aniruddha Gharat
-Portfolio: https://aniruddhagharat.me
+
+Portfolio: aniruddhagharat.me
 
 ## What It Does
 
