@@ -7,7 +7,7 @@ problems with optimized solutions and detailed explanations.
 
 Aniruddha Gharat
 
-Portfolio: aniruddhagharat.me
+Portfolio: www.aniruddhagharat.me
 
 ## What It Does
 
