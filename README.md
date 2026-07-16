@@ -1,4 +1,4 @@
-# LeetCode Helper
+# LeetCode Helper 
 
 LeetCode Helper is a Codex skill for solving LeetCode-style coding interview
 problems with optimized solutions and detailed explanations.
@@ -6,7 +6,6 @@ problems with optimized solutions and detailed explanations.
 ## Owner
 
 Aniruddha Gharat
-
 Portfolio: www.aniruddhagharat.me
 
 ## What It Does
